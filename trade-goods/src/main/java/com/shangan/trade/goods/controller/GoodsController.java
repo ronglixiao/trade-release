@@ -13,6 +13,6 @@ public class GoodsController {
     @ResponseBody
     public String test() {
         log.info("hello");
-        return "hello word";
+        return "hello word java!";
     }
 }
